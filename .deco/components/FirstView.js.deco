@@ -1,0 +1,129 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 20,
+					"ch": 16
+				},
+				"to": {
+					"line": 20,
+					"ch": 17
+				}
+			},
+			"type": "number",
+			"name": "Flex"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 21,
+					"ch": 26
+				},
+				"to": {
+					"line": 21,
+					"ch": 34
+				}
+			},
+			"editWith": "inputField",
+			"type": "string",
+			"name": "JustifyCenter"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 22,
+					"ch": 22
+				},
+				"to": {
+					"line": 22,
+					"ch": 30
+				}
+			},
+			"editWith": "dropdown",
+			"dropdownOptions": "AlignItems",
+			"type": "string",
+			"name": "AlignItems"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 23,
+					"ch": 27
+				},
+				"to": {
+					"line": 23,
+					"ch": 45
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "BackgroundColor"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 27,
+					"ch": 19
+				},
+				"to": {
+					"line": 27,
+					"ch": 26
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "Color",
+			"group": "TEXT"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 28,
+					"ch": 22
+				},
+				"to": {
+					"line": 28,
+					"ch": 24
+				}
+			},
+			"type": "number",
+			"name": "FontSize",
+			"group": "TEXT"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 29,
+					"ch": 24
+				},
+				"to": {
+					"line": 29,
+					"ch": 32
+				}
+			},
+			"editWith": "dropdown",
+			"dropdownOptions": "FontWeight",
+			"type": "string",
+			"name": "FontWeight",
+			"group": "TEXT"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 30,
+					"ch": 24
+				},
+				"to": {
+					"line": 30,
+					"ch": 40
+				}
+			},
+			"editWith": "dropdown",
+			"dropdownOptions": "FontFamily",
+			"type": "string",
+			"name": "FontFamily",
+			"group": "TEXT"
+		}
+	]
+}
